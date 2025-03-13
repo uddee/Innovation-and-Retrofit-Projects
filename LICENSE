@@ -1,5 +1,13 @@
 MIT License
 
+### Notes on Usage:
+- The **Automated Testing** function will generate random test results, simulating various aspects such as success rate, system stability, and performance.
+- The **Performance Review** function generates a simulated benchmark score for the system and suggests whether it requires optimization.
+- The project is designed to be extendable, and you can modify the logic for more specific testing or benchmarking based on your real-world scenarios.
+
+This `README.md` is structured to provide all the necessary information to use, contribute, and understand the **Innovation and Retrofit Projects** code. Make sure to adjust the repository link and system details for your specific case.
+
+
 Copyright (c) 2025 Uddeepth Dasari
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
